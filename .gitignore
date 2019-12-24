@@ -8,6 +8,9 @@
 # Output files
 .Rout
 
+# Backup files
+.*~
+
 # User-specific files
 .Ruserdata
 
