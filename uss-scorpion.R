@@ -33,6 +33,7 @@ dp  <- seq(dpa-0.20,dpa+0.20,length.out=400)
 plot(dp,ylim=c(0,1), main="Detection Probability if Present")
 dev.new()
 
+
 ## Track the history of occurrence probability for every cell
 progress  <- op
 ## Track the number of searches of each cell
